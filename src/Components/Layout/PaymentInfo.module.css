@@ -1,0 +1,40 @@
+.payment{
+    /* width: 100px; */
+    /* height: 6rem; */
+    background-color: white;
+    justify-content: space-between;
+    color: grey;
+    display: flex;
+    padding: 10px 40px ;
+}
+
+.payment > .flex {
+    flex: 1 1 50%;
+}
+.payment h3 {
+    margin-bottom: 3px;
+}
+.payment h6 {
+    margin-top: 3px;
+}
+.PaymentImage {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    justify-content: end;
+}
+.radio{
+    padding: 10px 10px;
+}
+.button{
+    padding: 15px 10px;
+    background-color:navy;
+    border-radius:2rem;
+    cursor: pointer;
+    color: white;
+    border-radius: 3px;
+    padding-bottom: 1rem;
+    justify-content: center;
+    padding-right: 2rem;
+
+}
