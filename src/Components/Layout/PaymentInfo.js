@@ -33,11 +33,13 @@ const PaymentInfo = props => {
                         <input type="radio" name="input" value="input" id="input"/>
                         <label for="input">Use this card for next time purchase</label>
                     </div> 
+    
                     <br></br>
                     <button className={classes.button} type="submit">Add card</button>                 
                 </div>
             </div>
           </div> 
+          <br></br>
           <hr className="hr"/> 
         </div>
     );

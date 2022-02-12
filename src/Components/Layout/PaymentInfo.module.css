@@ -28,7 +28,8 @@
 }
 .button{
     padding: 15px 10px;
-    background-color:navy;
+    background-color:royalblue;
+    border: 1px solid royalblue ;
     border-radius:2rem;
     cursor: pointer;
     color: white;

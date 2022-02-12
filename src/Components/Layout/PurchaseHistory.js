@@ -19,6 +19,8 @@ const PurchaseHistory = () => {
                     </div>
             </div>
 
+            <br></br>
+            <br></br>
             <hr className="hr"/> 
         </div>
         </div>
